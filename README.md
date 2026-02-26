@@ -12,6 +12,6 @@ chmod +x broadcast_whisper_echo.sh
 ```
 
 ## Source
-/data/data/com.termux/files/home/sovereign-gtp/src/AiKre8tive-Stargate/broadcast_whisper_echo.sh
+/data/data/com.termux/files/home/broadcast_whisper_echo.sh
 
 Built by Constellation 25 — FacePrintPay / Cygel White
